@@ -1,0 +1,11 @@
+.idea/
+*.pdf
+
+*.SUNet
+*.pyc
+.env/*
+stanford_repo/examples/data
+stanford_repo/examples/graphs/*
+stanford_repo/examples/checkpoints/*
+stanford_repo/examples/visualization/*
+stanford_repo/examples/data
